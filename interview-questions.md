@@ -15,7 +15,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 2. What is a gem?
 
-  Your answer:
+  Your answer: A gem is a 
 
   Researched answer:
 
@@ -23,7 +23,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. What is Ruby on Rails?
 
-  Your answer:
+  Your answer: Ruby on Rails is a framework that uses Ruby language. The framework follow MVC pattern to develop a fullstack site. 
 
   Researched answer:
 
@@ -39,7 +39,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 5. What are primary keys? Why are they important?
 
-  Your answer:
+  Your answer: Primary keys are unique indentifiers, usually used in databases to track each individual piece of data to be able to refer back. Comes in handy when pieces of data are similar, the primary keys will be different. 
 
   Researched answer:
 
@@ -54,6 +54,6 @@ Research and define the following terms to the best of your ability.
 
 3. ERB:
 
-4. Params:
+4. Params: Params are parameters passed through the controllwe 
 
 5. API:
