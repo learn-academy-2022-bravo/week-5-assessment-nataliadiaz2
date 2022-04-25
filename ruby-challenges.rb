@@ -10,6 +10,12 @@ letter_o = 'o'
 letter_t = 't'
 # Expected output: ['tea', 'water', 'soda water']
 
+# Create a method - returned 
+# Parameter - array, letter
+# Filter through the array using the .select method 
+# Determine if the value in the array includes the letter using the .includes? to determine if it is true
+# Return the array with the elements containing the letter 
+
 # def returned (array, letter) 
 #     array.select { |value| value.include?(letter) }
 # end 
@@ -25,6 +31,10 @@ nums_array1 = [42, 7, 27]
 nums_array2 = [25, 17, 47, 11]
 # Expected output: 100
 
+# Create a method - added_up
+# Parameter - array 
+# Use the .sum method to add the elements in the array 
+# Return the sum total 
 
 # def added_up array 
 #     array.sum

@@ -39,7 +39,7 @@
 //Create a function - codedMessage
 //Parameter - string 
 //Go through string recognizing vowels 
-//Conditional if there is a certain vowel change the string
+
 //Return coded string 
 
 
@@ -134,22 +134,12 @@
 
 // }
 
-const fullHouse = arr => {
-    const copy = arr.slice();
-    for(let i = 0; i < arr.length; ){
-       const el = copy.splice(i, 1)[0];
-       if(copy.includes(el)){
-          copy.splice(copy.indexOf(el), 1);
-          if(copy.includes(el)){
-             return true;
-          }
-       }else{
-          i++;
-       }
-    };
-    return false;
- };
-
+const fullHouse = (array) => {
+        let dupe = array.filter((value, index) => {
+        array.indexOf(value) !== index
+ })
+ return dupe
+}
 
 console.log(fullHouse(hand1))
 console.log(fullHouse(hand2))
