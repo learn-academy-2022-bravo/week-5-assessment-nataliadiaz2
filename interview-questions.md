@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: A hash in Ruby is a container of data set in a key:value pair. 
 
-  Researched answer: In Ruby a hash is a container/collection of key: value pairs, with the value able to be referenced by its unique key. 
+  Researched answer: In Ruby a hash is a container/collection of key: value pairs, with the value able to be referenced by its unique key. Going through the CRUD actions, in cases there will be a need to refer and update hash data. Hashes are enumerables, data grouped together that are iterable. 
 
 
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: A gem is a piece of code in Ruby. 
 
-  Researched answer: In Ruby a gem is sharable code or library of code functionality. A gem is open source library of code in the Ruby language. 
+  Researched answer: In Ruby a gem is sharable code or library of code functionality. A gem is open source library of code in the Ruby language.A main gem I've used in Ruby is the Active Record.  
 
 
 
@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Primary keys are unique indentifiers, usually used in databases to track each individual piece of data to be able to refer back. Comes in handy when pieces of data are similar, the primary keys will be different. 
 
-  Researched answer: Primary keys are unique id's that are given to every row of a table in Rails. If there is duplicate information in a table, the primary key or unique id tells the row apart by their id. 
+  Researched answer: Primary keys are unique id's that are given to every row of a table in Rails. If there is duplicate information in a table, the primary key or unique id tells the row apart by their id. Primary keys are important when a user is going through the data, or referring to a specific row of data to identify eaxctly which data is being called/pulled. Primary keys are necessary to have database information organized. 
 
 
 
